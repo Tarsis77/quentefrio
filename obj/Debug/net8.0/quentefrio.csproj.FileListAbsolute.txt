@@ -1,0 +1,14 @@
+C:\Users\user\quentefrio\bin\Debug\net8.0\quentefrio.exe
+C:\Users\user\quentefrio\bin\Debug\net8.0\quentefrio.deps.json
+C:\Users\user\quentefrio\bin\Debug\net8.0\quentefrio.runtimeconfig.json
+C:\Users\user\quentefrio\bin\Debug\net8.0\quentefrio.dll
+C:\Users\user\quentefrio\bin\Debug\net8.0\quentefrio.pdb
+C:\Users\user\quentefrio\obj\Debug\net8.0\quentefrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\quentefrio\obj\Debug\net8.0\quentefrio.AssemblyInfoInputs.cache
+C:\Users\user\quentefrio\obj\Debug\net8.0\quentefrio.AssemblyInfo.cs
+C:\Users\user\quentefrio\obj\Debug\net8.0\quentefrio.csproj.CoreCompileInputs.cache
+C:\Users\user\quentefrio\obj\Debug\net8.0\quentefrio.dll
+C:\Users\user\quentefrio\obj\Debug\net8.0\refint\quentefrio.dll
+C:\Users\user\quentefrio\obj\Debug\net8.0\quentefrio.pdb
+C:\Users\user\quentefrio\obj\Debug\net8.0\quentefrio.genruntimeconfig.cache
+C:\Users\user\quentefrio\obj\Debug\net8.0\ref\quentefrio.dll
